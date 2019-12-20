@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Path (Back) to Software Engineering"
-date:       2019-12-20 21:49:28 +0000
+date:       2019-12-20 16:49:29 -0500
 permalink:  my_path_back_to_software_engineering
 ---
 
