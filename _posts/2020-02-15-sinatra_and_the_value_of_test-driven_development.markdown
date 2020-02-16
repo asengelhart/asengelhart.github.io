@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra and the value of test-driven development"
-date:       2020-02-16 01:20:25 +0000
+date:       2020-02-15 20:20:26 -0500
 permalink:  sinatra_and_the_value_of_test-driven_development
 ---
 
