@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Relo-Reago: An Esperanto-English Dictionary"
-date:       2020-05-22 05:59:25 +0000
+date:       2020-05-22 01:59:26 -0400
 permalink:  relo-reago_an_esperanto-english_dictionary
 ---
 
